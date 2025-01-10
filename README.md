@@ -24,8 +24,8 @@ transição e menu foram exportados utilizando o Replay Mod. Esses vídeos foram
 |   	 **GRUPO**     |   	 	  **CONTRIBUIÇÃO**   	      |
 | :------------------- | -----------------------------------: |
 | **[Victor Hugo](https://github.com/kingofcactus/)**        | Programação e Edição   |                 
-| **[Nicolas Oliveira](https://github.com/NicolasGoldner/)** | Minecraft e Introdução |
+| **Nicolas Oliveira**                                       | Minecraft e Introdução |
 | **Will Emanuel**                                           | 1ª Questão             |
-| **[Leonardo Diogo](https://github.com/LeonardoBuzelin/)**  | 2ª Questão             | 
-| **Caio Ferreira**                                          | 3ª Questão		      |
+| **Leonardo Diogo**                                         | 2ª Questão             | 
+| **Caio Ferreira**                                          | 3ª Questão	      |
 </p>
